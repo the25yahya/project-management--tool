@@ -1,1 +1,2 @@
 # project-management--tool
+As a project manager, you can create and manage multiple projects on a single page application, so that you can easily track and organize all of your tasks and team members in one place. The application will allow you to add and assign tasks to team members, set due dates, and track progress on each task. Additionally, you can communicate with your team members through the application and view project reports and metrics.
